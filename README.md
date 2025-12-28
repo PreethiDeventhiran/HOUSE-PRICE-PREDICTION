@@ -48,8 +48,3 @@ Predicting house prices accurately is a challenging problem due to the influence
 - R² Score  
 
 ---
-
-## 💻 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/House-Price-Prediction.git
